@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sussmann1368
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Github und Optimierung, Entwicklung  
+-  👌  Neuheiten 
+- 💞️ Ich suche Mitarbeit an Entwicklung von Programmem
 - 📫 How to reach me ---sussmann00732@outlook.de
 - 
 
